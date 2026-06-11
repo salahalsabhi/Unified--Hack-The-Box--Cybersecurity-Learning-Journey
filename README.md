@@ -82,8 +82,10 @@ Database Hardening: Enforce strict access control, authentication, and internal 
 Secure Storage: Avoid storing infrastructure passwords (like device root credentials) in cleartext configuration fields within the application manager interface.
 ---
 ---
-LinkedIn: [
+LinkedIn: [www.linkedin.com/feed/update/urn:li:activity:7470792738435731456/]
 
 X: [https://x.com/charisma1385/status/2065017669925957700]
+
 ---
+
 #HackTheBox #CyberSecurity #PenetrationTesting #Log4j #Log4Shell #MongoDB #Infosec #Writeup #CTF #Linux #UniFi #Log4Shell #CVE-2021-44228 #RCE #Linux #PrivilegeEscalation #OWASP #CyberSecurity #TryHackMe #Pentesting #WebSecurity #SQLInjection #PrivilegeEscalation #EthicalHacking #InfoSec #SecurityResearch #CybersecurityLearningJourney
